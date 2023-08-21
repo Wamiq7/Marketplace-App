@@ -215,21 +215,21 @@ export const FooterData: {
   social: [
     {
       id: 1,
-      link: "https://www.instagram.com/nexu_solutions/",
+      link: "https://instagram.com/wamiq_akram?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
       icon: <FaInstagram/>,
-      alt: "nexu_solutions",
+      alt: "wamiq_akram",
     },
     {
       id: 2,
-      link: "https://github.com/MustafaGhouri",
+      link: "https://github.com/Wamiq7",
       icon: <FaGithub/>,
-      alt: "MustafaGhouri",
+      alt: "Wamiq7",
     },
     {
       id: 3,
-      link: "https://www.linkedin.com/in/mustafa-ghouri-000149243/",
+      link: "https://www.linkedin.com/in/muhammad-wamiq-akram-107751236",
       icon: <FaLinkedinIn/>,
-      alt: "mustafa-ghouri-000149243",
+      alt: "Muhammad Wamiq Akram",
     },
   ],
   company: [
